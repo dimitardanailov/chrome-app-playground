@@ -13,5 +13,14 @@
 	"icons": {
 		"16": "calculator-16.png",
 		"128": "calculator-128.png"
+	},
+	"commands": {
+		"toggle-feature-foo": {
+			"suggested_key": {
+				"default": "Ctrl+Shift+Y"
+			},
+			"description": "Toggle feature foo",
+			"global": true
+		}
 	}
 }
